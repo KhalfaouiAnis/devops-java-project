@@ -28,7 +28,7 @@
           <h2 style="color: rgb(48, 70, 194)">Whats Is Jenkins</h2>
           <p style="font-size: 14px">
             Jenkins is an open source automation server which enables developers
-            around the world to reliably build, test, and deploy their software
+            around the world to reliably build, test, and deploy their software.
           </p>
         </section>
         <section style="margin: 3px">
@@ -36,14 +36,14 @@
           <p style="font-size: 14px">
             Git is a free and open source distributed version control system
             designed to handle everything from small to very large projects with
-            speed and efficiency
+            speed and efficiency.
           </p>
         </section>
         <section style="margin: 3px">
           <h2 style="color: rgb(48, 70, 194)">Whats Is Docker</h2>
           <p style="font-size: 14px">
             Docker is a set of platform as a service products that use OS-level
-            virtualization to deliver software in packages called containers
+            virtualization to deliver software in packages called containers.
           </p>
         </section>
       </div>
