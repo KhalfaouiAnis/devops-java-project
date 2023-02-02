@@ -1,4 +1,4 @@
-package com.app.devops_project.test;
+package com.devops.devops_project.test;
 
 import org.junit.Assert;
 import org.junit.Test;
