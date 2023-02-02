@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Welcome to devops project</title>
+    <title>Home Page</title>
     <link
       rel="stylesheet"
       href="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png"
