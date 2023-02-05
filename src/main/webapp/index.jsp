@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Welcome to devops project</title>
+    <title>Welcome to devops project 2023</title>
   </head>
   <body style="height: 93vh; width: 99vw">
     <h1 style="text-align: center; color: rgb(7, 41, 231)">
